@@ -37,14 +37,6 @@ Frontend architecture · System design · Remote-first async collaboration · Me
 
 ---
 
-### 📊 GitHub Stats
-
-![Sreeraag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeraagmohan&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeraagmohan&layout=compact&theme=radical&hide_border=true)
-
----
-
 > "I believe in building systems that outlast their creators — whether in code or in public understanding."
 
 Thanks for stopping by! Feel free to say hi or explore my repos. 🚀
