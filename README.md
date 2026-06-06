@@ -8,7 +8,7 @@ Building clean, scalable user experiences and thoughtful products. Currently sha
 
 ### 🚀 What I'm working on
 
-- **Prismforce** — Leading frontend architecture and product initiatives for a white-label skill management platform used by IT services firms.
+- **Prismforce** — Leading frontend architecture and product initiatives for a skill management platform used by IT services firms.
 - **PIB Alerts** — [Live →](https://sreeraagmohan.github.io/pib-releases)  
   An AI-powered (Claude) pipeline that scores and delivers high-signal Indian government press releases within 30 minutes.
 - **The Bharat Briefing** — Daily newsletter with an AI-assisted + human-in-the-loop editorial pipeline.
